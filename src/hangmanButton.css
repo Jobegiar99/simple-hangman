@@ -1,0 +1,21 @@
+.hangmanButtonDiv{
+    border-style: groove;
+    border-color: burlywood;
+    background-color: bisque;
+    width: 30px;
+    height: 30px;
+}
+
+.hangmanButton{
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-content: center;
+}
+
+.hangmanButton:hover{
+    background-color: antiquewhite;
+    color: grey;
+}
