@@ -39,6 +39,7 @@ class HangmanHolder extends React.Component{
                             word = {hangWord} 
                             playerWon = {this.setPlayerWon} 
                             wrongAnswer = {this.playerWrongGuess}
+                            lives = {this.state.lives}
                             /> ;
 
         let won = <GameDone

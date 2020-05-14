@@ -1,13 +1,15 @@
-.th{
-    background-color: aqua;
-}
-
-.tbody{
-
-    background-color: azure;
+.Result{
+    position: relative;
+    bottom: 22px;
+    left: 7px
 
 }
 
-.tfoot{
-    background-color: aqua;
+.buttonPlayAgain{
+
+    align-self: center;
+    position: relative;
+    left: 20px;
+    bottom: 8px
+
 }

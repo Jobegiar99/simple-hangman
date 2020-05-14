@@ -74,12 +74,14 @@ class HangManWord extends React.Component{
         return(
             <div>
                 <h1 className = "hangmanWordH1" >{this.state.letters} </h1>
-             
-                <table>
-                    <tr>
-                        {this.state.buttons}
-                    </tr>
-                </table>
+                <h2 class = "lives"> Lives: {this.props.lives}</h2>
+                <div class = "buttons">
+                    <table>
+                        <tr>
+                            {this.state.buttons}
+                        </tr>
+                    </table>
+                </div>
             </div>
         )
     }

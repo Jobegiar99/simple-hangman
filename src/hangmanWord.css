@@ -1,3 +1,19 @@
 .hangmanWordH1{
     font-size: 50px;
+    background-color: cadetblue;
+}
+
+.buttons{
+    
+    overflow-x: scroll;
+    background-color: transparent;
+    height: auto;
+    border: 0 none transparent;
+}
+
+.lives{
+    position: relative;
+    bottom: 15px;
+    font-weight: 1;
+    
 }

@@ -11,13 +11,13 @@ class GameDone extends React.Component{
 
     render(){
         return(
-            <div align = "center">
+            <div align = "center" class = "gameDone">
                 <table>
-                    <th align = "center">
-                        <h1>{this.props.gameState}</h1>
+                    <th align = "center" class = "Result">
+                        <h2 >{this.props.gameState}</h2>
                     </th>
                     <tbody>
-                        <button onClick = {this.restartGame}> Play Again! </button>
+                        <button onClick = {this.restartGame} class = "buttonPlayAgain"> Play Again! </button>
                     </tbody>
                     <tfoot>
 
