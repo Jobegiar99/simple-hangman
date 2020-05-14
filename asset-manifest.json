@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/simple-hangman.github.io/static/css/main.3e52b668.chunk.css",
+    "main.css": "/simple-hangman.github.io/static/css/main.e5cd217d.chunk.css",
     "main.js": "/simple-hangman.github.io/static/js/main.4a439c8c.chunk.js",
     "main.js.map": "/simple-hangman.github.io/static/js/main.4a439c8c.chunk.js.map",
     "runtime-main.js": "/simple-hangman.github.io/static/js/runtime-main.53df5c03.js",
@@ -8,15 +8,15 @@
     "static/js/2.b9c52705.chunk.js": "/simple-hangman.github.io/static/js/2.b9c52705.chunk.js",
     "static/js/2.b9c52705.chunk.js.map": "/simple-hangman.github.io/static/js/2.b9c52705.chunk.js.map",
     "index.html": "/simple-hangman.github.io/index.html",
-    "precache-manifest.da8adaf76b8ce9c3ea8fbe014aaf3977.js": "/simple-hangman.github.io/precache-manifest.da8adaf76b8ce9c3ea8fbe014aaf3977.js",
+    "precache-manifest.a2cfc428476042455e430bdb59711fa7.js": "/simple-hangman.github.io/precache-manifest.a2cfc428476042455e430bdb59711fa7.js",
     "service-worker.js": "/simple-hangman.github.io/service-worker.js",
-    "static/css/main.3e52b668.chunk.css.map": "/simple-hangman.github.io/static/css/main.3e52b668.chunk.css.map",
+    "static/css/main.e5cd217d.chunk.css.map": "/simple-hangman.github.io/static/css/main.e5cd217d.chunk.css.map",
     "static/js/2.b9c52705.chunk.js.LICENSE.txt": "/simple-hangman.github.io/static/js/2.b9c52705.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.53df5c03.js",
     "static/js/2.b9c52705.chunk.js",
-    "static/css/main.3e52b668.chunk.css",
+    "static/css/main.e5cd217d.chunk.css",
     "static/js/main.4a439c8c.chunk.js"
   ]
 }
